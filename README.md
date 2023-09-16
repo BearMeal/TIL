@@ -14,5 +14,7 @@
 
 2. 코드 한줄한줄은 이해가 되지만 전체적인 알고리즘은 이해가 안된다
   - 코드를 그냥 외워버리고 시각화된 알고리즘 그림으로 이해한다
+  [알고리즘 시각화한 사이트](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+  
 
 
