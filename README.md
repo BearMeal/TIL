@@ -1,7 +1,7 @@
 # 그냥 내 생각
 
 1. 자료구조와 알고리즘
-  - 자료구조란 데이터를 메모리에 어떻게 효율적으로 **저장**할 수 있을까? 고민하다 만들어진것이다.\
+  - 자료구조란 데이터를 메모리에 어떻게 효율적으로 **저장**하고 **조회**할 수 있을까? 고민하다 만들어진것이다.\
   현실에서는 물건을 아무렇게나 대충 방안에 던저놓아도 상관없다.\
   그러나 메모리라는 자율성이 한정된 방구석에는 데이터를 대충 던져 놓으면 안된다.\
    상당한 저장공간의 비효율이 발생할 뿐더러 찾고자 하는 데이터를 찾기가 어려워진다.\
@@ -16,5 +16,27 @@
   - 코드를 그냥 외워버리고 시각화된 알고리즘 그림으로 이해한다
   [알고리즘 시각화한 사이트](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
   
-
-
+## 알고리즘 분류(내맘대로)
+- Mathematics
+  - Number Theory
+  - Geometry
+  - Arithmetic
+- Implementation
+  - Simulation
+  - Greedy
+- Dynamic Programming
+  - Bruteforcing
+- Data Structures 
+  - Queue
+  - Priority Queue
+  - Stack
+  - Hash (Dict in python)
+- Graph Theory
+  - Graph Traversal
+    - DFS
+    - BFS
+    - Back Tracking
+  - Tree
+    - Binary Tree
+  - Dijkstra
+  - Shortest Path
