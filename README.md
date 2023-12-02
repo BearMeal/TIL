@@ -26,6 +26,8 @@
   - Greedy
 - Dynamic Programming
   - Bruteforcing
+  - Top-Down
+  - Bottom-Up
 - Data Structures 
   - Queue
   - Priority Queue
